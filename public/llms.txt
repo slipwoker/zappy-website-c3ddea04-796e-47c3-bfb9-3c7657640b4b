@@ -1,0 +1,53 @@
+# HOMLAND CONSRIGE — Generative Engine Optimization Map
+
+> A נדל"ן ושירותי ניהול נכסים business.
+
+---
+
+## Pages
+
+### Home
+https://homland-consrige-c3ddea04.zappy5.app
+
+### Services
+https://homland-consrige-c3ddea04.zappy5.app/services
+
+### Case Studies
+https://homland-consrige-c3ddea04.zappy5.app/case-studies
+
+### Contact
+https://homland-consrige-c3ddea04.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://homland-consrige-c3ddea04.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://homland-consrige-c3ddea04.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://homland-consrige-c3ddea04.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HOMLAND CONSRIGE
+HOMLAND CONSRIGE is a business in the נדל"ן ושירותי ניהול נכסים industry.
+
+## Target Audience
+בעלי נכסים ומשכירים
+
+## Industry
+נדל"ן ושירותי ניהול נכסים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://homland-consrige-c3ddea04.zappy5.app/sitemap.xml
+- **Robots.txt**: https://homland-consrige-c3ddea04.zappy5.app/robots.txt
